@@ -1,16 +1,58 @@
-# React + Vite
+# 🔐 Spring Security + ReactJS Authentication System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Unlock the power of **Spring Security** and **ReactJS** with this complete, real-world authentication system template — perfect for full-stack developers looking to implement secure, scalable, and production-ready login flows.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+-  User Registration & Login with JWT  
+-  Email OTP Verification using JavaMail  
+-  Password Reset via Email  
+-  Spring Boot Backend with REST APIs  
+-  React Frontend with Protected Routes  
+-  Bootstrap 5 UI  
+-  Fully Commented & Structured Source Code  
+-  Easy Setup & Run Instructions  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎯 What You'll Learn
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 Implement modern security best practices  
+- 📧 Send automated email notifications (OTP verification)  
+- 🔄 Protect routes and manage JWT tokens  
+- 💡 Build a sleek, professional UI using Bootstrap 5  
+
+---
+
+## 👨‍💻 Who Is This For?
+
+- 🎓 Final Year Students  
+- 👨‍💼 Working Professionals  
+- 🎥 YouTubers teaching full-stack development  
+- 💻 Java, React, and Full-Stack Developers  
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** Spring Boot, Spring Security, JWT  
+- **Frontend:** ReactJS, Bootstrap 5  
+- **Email Service:** JavaMail  
+
+---
+
+## 📦 Setup Instructions
+
+1. Clone the repository  
+2. Configure application properties (DB, Email, JWT secret)  
+3. Run Spring Boot backend  
+4. Start React frontend  
+5. Access the app in browser  
+
+---
+
+## 📧 Support
+
+If you have any issues or questions, feel free to reach out!
