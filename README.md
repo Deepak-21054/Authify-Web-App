@@ -31,6 +31,11 @@ Unlock the power of **Spring Security** and **ReactJS** with this complete, real
 4. Start React frontend  
 5. Access the app in browser  
 
+<img width="1324" height="601" alt="image" src="https://github.com/user-attachments/assets/1f72c3cd-af42-4821-9e15-0494343f84c5" />
+
+<img width="1336" height="583" alt="image" src="https://github.com/user-attachments/assets/ce78ee56-0c1c-4ece-90e0-015883f810e7" />
+
+
 ---
 
 ## 📧 Support
