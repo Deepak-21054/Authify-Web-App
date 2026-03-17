@@ -12,26 +12,7 @@ Unlock the power of **Spring Security** and **ReactJS** with this complete, real
 -  Spring Boot Backend with REST APIs  
 -  React Frontend with Protected Routes  
 -  Bootstrap 5 UI  
--  Fully Commented & Structured Source Code  
 -  Easy Setup & Run Instructions  
-
----
-
-## 🎯 What You'll Learn
-
-- 🔐 Implement modern security best practices  
-- 📧 Send automated email notifications (OTP verification)  
-- 🔄 Protect routes and manage JWT tokens  
-- 💡 Build a sleek, professional UI using Bootstrap 5  
-
----
-
-## 👨‍💻 Who Is This For?
-
-- 🎓 Final Year Students  
-- 👨‍💼 Working Professionals  
-- 🎥 YouTubers teaching full-stack development  
-- 💻 Java, React, and Full-Stack Developers  
 
 ---
 
