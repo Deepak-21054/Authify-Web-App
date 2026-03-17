@@ -1,7 +1,6 @@
 # 🔐 Spring Security + ReactJS Authentication System
 
-Unlock the power of **Spring Security** and **ReactJS** with this complete, real-world authentication system template — perfect for full-stack developers looking to implement secure, scalable, and production-ready login flows.
-
+Unlock the power of **Spring Security** and **ReactJS** with this complete, real-world authentication system
 ---
 
 ## 🚀 Features
